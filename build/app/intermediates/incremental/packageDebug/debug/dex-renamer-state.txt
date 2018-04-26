@@ -1,0 +1,4 @@
+#Thu Apr 26 08:21:12 GMT+03:00 2018
+base.0=/Users/niyazitoros/IdeaProjects/localdatetime/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
